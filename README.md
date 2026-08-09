@@ -43,28 +43,28 @@ Hotel-Management-System/
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](login.png)
+![Login Page](./login.png)
 
 ### 📊 Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](./dashboard.png)
 
 ### 👤 Customer Details
-![Customer Details](customer-details.png)
+![Customer Details](./customer-details.png)
 
 ### 🏨 Room Details
-![Room Details](room-details.png)
+![Room Details](./room-details.png)
 
 ### 📅 Room Booking
-![Room Booking](room-booking.png)
+![Room Booking](./room-booking.png)
 
 ### 💳 Billing
-![Billing](billing.png)
+![Billing](./billing.png)
 
 ### 📄 Report
-![Report](report.png)
+![Report](./report.png)
 
 ### ℹ️ Information
-![Information](info.png)
+![Information](./info.png)
 
 ### 🚪 Logout
-![Logout](logout.png)
+![Logout](./logout.png)
