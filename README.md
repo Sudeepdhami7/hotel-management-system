@@ -28,7 +28,7 @@ This system helps manage hotel operations including rooms, customers, bookings, 
 ## 📂 Project Structure
 
 ```text
-Hotel-Management-System/
+hotel-management-system/
 ├── login.py
 ├── dashboard.py
 ├── hotel.py
@@ -38,8 +38,16 @@ Hotel-Management-System/
 ├── payment.py
 ├── README.md
 ├── LICENSE
-└── .gitignore
-
+├── .gitignore
+├── login.png
+├── dashboard.png
+├── customer-details.png
+├── room-details.png
+├── room-booking.png
+├── billing.png
+├── report.png
+├── info.png
+└── logout.png
 ## 📸 Screenshots
 
 ### 🔐 Login Page
