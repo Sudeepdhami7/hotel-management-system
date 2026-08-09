@@ -39,3 +39,32 @@ Hotel-Management-System/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](login.png)
+
+### 📊 Dashboard
+![Dashboard](dashboard.png)
+
+### 👤 Customer Details
+![Customer Details](customer-details.png)
+
+### 🏨 Room Details
+![Room Details](room-details.png)
+
+### 📅 Room Booking
+![Room Booking](room-booking.png)
+
+### 💳 Billing
+![Billing](billing.png)
+
+### 📄 Report
+![Report](report.png)
+
+### ℹ️ Information
+![Information](info.png)
+
+### 🚪 Logout
+![Logout](logout.png)
