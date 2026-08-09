@@ -48,8 +48,8 @@ hotel-management-system/
 ├── report.png
 ├── info.png
 └── logout.png
-## 📸 Screenshots
 
+## 📸 Screenshots
 ### 🔐 Login Page
 ![Login Page](./login.png)
 
